@@ -1,0 +1,17 @@
+body {
+    background-image: url(blue.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body {
+    text-align: center;
+    font-family: 'Arial'
+    background azure;
+    color: black;
+}
+
+img {
+    width: 200px
+}
